@@ -212,6 +212,14 @@ footer p{
     outline: none;
 }
 
+.newsletter input{
+    width: 70%;
+}
+
+.newsletter button{
+    width: 20%;
+}
+
 .newsletter input::placeholder{
     color: white;
 }
@@ -232,4 +240,13 @@ footer p{
     box-shadow: 0px 10px 20px 0px #000;
 }
 
+@media (min-width: 320px) and (max-width: 480px) {
+  
+    header a{
+        font-size: 10px;
+        padding: 15px;
+    }
+    
+    
+  }
 
