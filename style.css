@@ -186,7 +186,7 @@ header{
     color: white;
     padding-top: 50px;
     background-image: linear-gradient(#0F2027, #203A43, #2C5364);
-    height: calc(100vh - 135px);
+    height: 500px;
 }
 
 .insta-feed ul{
